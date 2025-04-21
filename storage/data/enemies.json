@@ -1,0 +1,12 @@
+{
+  "1": {
+    "name": "Reds",
+    "colour": "255,0,0",
+    "health": 1
+  },
+  "2": {
+    "name": "Blues",
+    "colour": "0,0,255",
+    "health": 2
+  }
+}
